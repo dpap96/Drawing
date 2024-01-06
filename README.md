@@ -2,7 +2,9 @@
 
 This web application allows users to draw on a canvas using various colors. It provides a user-friendly interface for artistic expression.
 
-#Find My site in: ( https://splendorous-zuccutto-a07f18.netlify.app )
+#Find My site in: ( https://sweet-haupia-a2b99d.netlify.app )
+
+
 
 ## Features
 
@@ -26,6 +28,6 @@ This web application allows users to draw on a canvas using various colors. It p
 4. Click the "Clear" button to erase the entire canvas.
 5. Click the "Save" button to download your drawing as a PNG image.
 
-## Author
+
 
 [Dionysia Rafaela Papadopoulou]
